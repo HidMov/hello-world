@@ -2,6 +2,5 @@
 $roll2 = $roll1 | Measure-Object -Sum | Select-Object sum
 $roll1
 $roll2
-Get-ExecutionPolicy
 
 
