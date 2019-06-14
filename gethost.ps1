@@ -1,0 +1,2 @@
+#stupid test
+Get-Host
